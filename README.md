@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruvindi Kaveesha</h1>
 <h3 align="center">A passionate Software Developer from Srilanka</h3>
-<img src="<https://img.freepik.com/premium-vector/software-development-concept-with-people-scene-flat-cartoon-design-woman-working-optimizes-code-screens-programming-creates-products-laptop-vector-illustration-visual-story-web_9209-9497.jpg?w=2000">
+<img src = "https://cdni.iconscout.com/illustration/premium/thumb/female-developer-2888890-2430485.png">
 - 🌱 I’m currently learning **Internet Technologies**
 
 - 💬 Ask me about **HTML,CSS,MYSQL,JavaScript**
