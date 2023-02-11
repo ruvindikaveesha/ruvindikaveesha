@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruvindi Kaveesha</h1>
 <h3 align="center">A passionate Software Developer from Srilanka</h3>
-
+<img src="<img src="https://learnwithshikha.com/wp-content/uploads/2021/01/web-deve.png">
 - 🌱 I’m currently learning **Internet Technologies**
 
 - 💬 Ask me about **HTML,CSS,MYSQL,JavaScript**
